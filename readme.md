@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/42035795/158306357-3672674c-9642-4f66-b813-2df2c9e21ed3.mp4
 
-This is one of the first projects I worked on. It is a web app that Managing any Facility Like Higher instutions, Dorms , Secondary institutions. The data provided in this app mimics a real-worl facility structure in my area.
+This is one of the first projects I worked on. It is a web app that Manages any Facility Like Higher instutions, Dorms , Secondary institutions. The data provided in this app mimics a real-world facility structure in my area.
 
 This Projects covers the following 
 - HTML
